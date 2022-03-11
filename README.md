@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @popigo
 - 👀 I’m KAIT 20 student
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning Java, C++ and Haskell
 - 📫 How to reach me - popigo2003@gmail.com
 
 <!---
